@@ -1,0 +1,1 @@
+Eslint: giúp ta format, giúp ta kiểm tra syntax
